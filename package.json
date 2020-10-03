@@ -1,5 +1,5 @@
 {
-  "name": "random-emoji",
+  "name": "@alexfrankcodes/random-emoji",
   "version": "1.0.0",
   "description": "Get random emojis!",
   "main": "src/index.js",
@@ -23,5 +23,6 @@
   "homepage": "https://github.com/alexfrankcodes/random-emoji#readme",
   "dependencies": {
     "unique-random-array": "2.0.0"
-  }
+  },
+  "devDependencies": {}
 }
