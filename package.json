@@ -1,0 +1,24 @@
+{
+  "name": "random-emoji",
+  "version": "1.0.0",
+  "description": "Get random emojis!",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexfrankcodes/random-emoji.git"
+  },
+  "keywords": [
+    "random",
+    "emoji",
+    "fun"
+  ],
+  "author": "Alexander Frank <alexfrankcodes@gmail.com> (https://alexfrankcodes.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexfrankcodes/random-emoji/issues"
+  },
+  "homepage": "https://github.com/alexfrankcodes/random-emoji#readme"
+}
