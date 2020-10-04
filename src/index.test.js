@@ -13,4 +13,10 @@ describe("random", () => {
     const selectedEmoji = randomEmoji.random();
     expect(emojiJSON).to.include(selectedEmoji);
   });
+
+  it("Should return an array of random emojis", () => {
+    const randomEmojis = randomEmoji.random(4);
+    expect(randomEmojis).to.have.length(4);
+    randomEmojis.forEach((item) => expect(emojiJSON).to.include(item));
+  });
 });
