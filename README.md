@@ -22,5 +22,5 @@ npm install @alexfrankcodes/random-emoji
 const re = require("@alexfrankcodes/random-emoji");
 const allEmojis = re.all;
 var randomEmoji = re.random();
-var threeRandomEmojis = re.random(4);
+var fourRandomEmojis = re.random(4);
 ```
