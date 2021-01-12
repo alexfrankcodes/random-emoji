@@ -8,7 +8,7 @@
 
 A small JS library for generating random emojis. I built this because I wanted to learn how to write and deploy libraries. I highly recommend checking out [Kent Dodds'](https://twitter.com/kentcdodds) series on [egghead.io](https://egghead.io/courses/how-to-write-an-open-source-javascript-library). 🙂💖
 
-## Installation
+## ⚙ Installation
 
 This package is distributed via npm:
 
@@ -16,7 +16,9 @@ This package is distributed via npm:
 npm install @alexfrankcodes/random-emoji
 ```
 
-## Usage
+[Click here](https://www.npmjs.com/package/@alexfrankcodes/random-emoji) to see the package on the NPM website.
+
+## 👩‍💻 Usage
 
 ```javascript
 const re = require("@alexfrankcodes/random-emoji");
